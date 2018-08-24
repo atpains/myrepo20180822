@@ -1,35 +1,592 @@
-AI������ƽ̨
+AI赋能子平台
 
-������
-�˹�����ԭ����������ѧ��
-����
-���γ�Ϊ��Ϊ��ѧ�����ı�����ѧ���������ڵĿγ̡���ϵͳ�ع��˹����ܷ�չʷ�Ļ����ϣ��ص�����˹����ܵĺ���˼�롢�������ۣ����������벿��Ӧ�á� �γ���Ӣ��ԭ��̲�Ϊ�����������˹����ܡ��ر��ǻ���ѧϰ����ķ�չ�ͱ仯����׫�ͳ�ʵ�˴������ݡ�������Ӣ��PPT,���Ľ��ڡ�
+管理者
+人工智能原理（北京大学）
+人人懂AI-华为人工智能基础速成
+华为AI战略及应用场景
+AI和机器学习发展简史
+机器学习概述
+神经网络知多少
 
-�γ̼��
-�˹������ǹ�����������ѧ�����רҵ���õĹǸɿ�֮һ��Ҳ�ǹ�����������У���о���������Ҫ�о�����֮һ���˹������о�����ü����������Ӳ��ȥʵ��Agent�ĸ�֪��������������Ϊ�������ۻ�������Ϊ�������������滮��ѧϰ��Ӧ���������������Ӿ���ͼ�������ģʽʶ��ר��ϵͳ���Զ��滮��������������������ġ����ܿ��ơ�������ѧ����Ȼ���Դ������罻���硢�����ھ�������ʵ�ȡ�
+开发者
+人工智能入门
+深度学习
+CS231n: Convolutional Neural Networks for Visual Recognition Neural Networks and Deep Learning
+Neural Networks and Deep Learning
+吴恩达 机器学习
+机器学习（入门）
+机器学习（进阶）
+Neural Networks for Machine Learning
+人工智能
 
-���γ���ϵͳ�ع��˹����ܷ�չ���̵Ļ����ϣ��ص�����˹����ܵĺ���˼�롢�������ۣ����������벿��Ӧ�á� �γ��Ը�Ӣ��ԭ��̲�Ϊ�����������˹����ܡ��ر��ǻ���ѧϰ����ķ�չ�ͱ仯����׫�ͳ�ʵ�˴��������ݡ����γ̹���12��������˫���ѧ������Ӣ��PPT����Ӣ����ҵ�ȡ����Ľ��ںͽ��������γ�������˹����ܸ���Ȥ�Ĵ�ѧ�����о������Լ��Ƽ������ߡ�
 
-���˷�ʽ��
-�γ̲��ðٷ��ƣ��ﵽ60���㡰�ϸ񡱣��ﵽ85�������㡰���㡱��
 
-��Ԫ����ռ��100%
-�γ̸���
-���γ���ϵͳ�ع��˹����ܷ�չʷ�Ļ����ϣ��ص�����˹����ܵĺ���˼�롢�������ۣ����������벿��Ӧ�á� �γ���Ӣ��ԭ��̲�Ϊ�����������˹����ܡ��ر��ǻ���ѧϰ����ķ�չ�ͱ仯����׫�ͳ�ʵ�˴������ݡ�������Ӣ��PPT,���Ľ��ڡ�
+管理者
+人工智能原理（北京大学）
+描述
+本课程为华为大学引进的北京大学王文敏教授的课程。在系统回顾人工智能发展史的基础上，重点介绍人工智能的核心思想、基本理论，基本方法与部分应用。 课程以英文原版教材为主，并根据人工智能、特别是机器学习领域的发展和变化，编撰和充实了大量内容。采用中英文PPT,中文讲授。
 
-֪ʶ����
-���ݽṹ���㷨�ȼ����֪ʶ�����Դ����������۵���ѧ֪ʶ������ѧϰ����֪ʶ
+课程简介
+人工智能是国内外著名大学计算机专业设置的骨干课之一，也是国内外著名高校和研究机构的主要研究方向之一。人工智能研究如何用计算机软件和硬件去实现Agent的感知、决策与智能行为，其理论基础表现为搜索、推理、规划和学习，应用领域包括计算机视觉、图像分析、模式识别、专家系统、自动规划、智能搜索、计算机博弈、智能控制、机器人学、自然语言处理、社交网络、数据挖掘、虚拟现实等。
 
-�ڿν�ʦ
+本课程在系统回顾人工智能发展历程的基础上，重点介绍人工智能的核心思想、基本理论，基本方法与部分应用。 课程以该英文原版教材为主，并根据人工智能、特别是机器学习领域的发展和变化，编撰和充实了大量的内容。本课程共有12讲，采用双语教学，即中英文PPT和中英文作业等、中文讲授和交流。本课程面向对人工智能感兴趣的大学生、研究生、以及科技工作者。
 
-������
-1989��3��ȡ�ù�����������ʿѧλ����ҵ���ι������������󸱽��ڵȡ�1992�������������֪����˾���������о�Ա�������о�Ա���й����ܹ��ȡ�2009���Ӧ���ع����α�����ѧ������Ƶ�������ҹ���ʵ���ҹ������ĸ����Ρ�2012��3���α�����ѧ��Ϣ����ѧԺ����Ժ�������ֹ�������2013��9����2016��3���α�����ѧ��Ϣ����ѧԺԺ����������ʿѧλ�ڼ���Ҫ�����˹�����Эͬʽ���������о���Ŀǰ���о��������������Ӿ�����ý��������˹����������ѧϰ��
+考核方式：
+课程采用百分制，达到60分算“合格”，达到85分以上算“优秀”。
 
-*���γ�Ϊ��Ϊ��ѧ�����ı�����ѧ���������ڽ��ڵĿγ̡�
+单元测试占比100%
+课程概述
+本课程在系统回顾人工智能发展史的基础上，重点介绍人工智能的核心思想、基本理论，基本方法与部分应用。 课程以英文原版教材为主，并根据人工智能、特别是机器学习领域的发展和变化，编撰和充实了大量内容。采用中英文PPT,中文讲授。
 
-�γ̴���CNE201806120001
-�γ̿�ʼ2018��6��12��
-�γ̽���2020��6��12��
-�༶����Self-paced
-�γ�ʱ��Сʱ19.5
-��ϰҪ�����ݽṹ���㷨�ȼ����֪ʶ�����Դ����������۵���ѧ֪ʶ������ѧϰ����֪ʶ
+知识储备
+数据结构、算法等计算机知识，线性代数、概率论等数学知识，机器学习基础知识
+
+授课教师
+
+王文敏
+1989年3月取得哈工大计算机博士学位。毕业后任哈理工、哈工大副教授等。1992年出国并在日美知名公司担任主任研究员、主干研究员、中国区总工等。2009年底应邀回国，任北京大学数字视频编解码国家工程实验室广州中心副主任。2012年3月任北京大学信息工程学院常务副院长（主持工作），2013年9月至2016年3月任北京大学信息工程学院院长。攻读博士学位期间主要从事人工智能协同式问题求解的研究，目前的研究领域包括计算机视觉、多媒体检索、人工智能与机器学习。
+
+*本课程为华为大学引进的北京大学王文敏教授讲授的课程。
+
+课程代码CNE201806120001
+课程开始2018年6月12日
+课程结束2020年6月12日
+班级代码Self-paced
+课程时长小时19.5
+修习要求数据结构、算法等计算机知识，线性代数、概率论等数学知识，机器学习基础知识
+
+------------------------------
+人人懂AI-华为人工智能基础速成
+描述
+本课程面向研发管理者、刚开始接触AI技术的研发人员、以及希望对AI能够“快速脱白”的各领域专业工作者。旨在通过“7小时以内”的在线自学，帮助学员快速了解华为人工智能战略、建立对AI、机器学习、神经网络的整体基础认知。
+搜索关键词：AI，人工智能，机器学习，深度学习，神经网络，快速入门
+
+目标学员
+本课程面向研发管理者、刚开始接触AI技术的研发人员、以及希望对AI能够“快速脱白”的各领域专业工作者。
+
+课程目标
+本课程旨在通过“7小时以内”的在线自学，帮助目标学员了解以下四大主题的核心要点
+
+1）华为人工智能战略、电信场景应用（1H）
+2）AI和机器学习发展简史（1.5H）
+3）机器学习算法入门（2H）
+4）神经网络基础知识（1.5H）
+*注：7小时以内=以上四个模块学时6小时+复习与综合考试（1小时以内）
+
+【讲师团队】
+朱广平 00341851
+未来网络与应用研究部(战略Marketing部)
+于江生 00759238
+2012 硅谷基础软件技术实验室
+刘健庄 00206477
+2012 诺亚方舟实验室
+陈丽亚 00754593
+2012 硅谷基础软件技术实验室
+
+【课程团队】
+陈宇 00340810
+华为大学
+高级学习设计师
+陈小宇 00224108
+华为大学
+高级学习设计师
+李玲 00351250
+华为大学
+学习设计师
+童慧 00384629
+华为大学
+学习运营经理
+
+课程代码CNE052301001289
+课程开始2018年7月25日
+课程结束2020年7月25日
+班级代码Self-paced
+课程时长小时7
+课程类型慕课
+
+
+------------------------------
+华为AI战略及应用场景
+描述
+本课程面向研发管理者、及刚开始接触AI技术的研发人员，同时也适合公司全员进行学习了解。通过本课程学习，您将了解到华为AI战略与应用场景，精选AI学习资源介绍。
+搜索关键词：AI，人工智能，机器学习，深度学习，公司战略，快速入门
+
+目标学员
+本课程面向研发管理者、及刚开始接触AI技术的研发人员，同时也适合公司全员进行学习了解。
+
+课程目标
+通过本课程学习，您将了解到华为AI战略与应用场景，精选AI学习资源介绍
+1）任总对人工智能的讲话、华为人工智能的战略决议、及相关重要文件；
+2）朱广平Fellow，在HAS 2018上的主题演讲-AI for Telecom：网络自治与服务2.0；
+3）精选AI学习资源介绍：人工智能正处于百家争鸣的阶段，我们持续开发/认证了一系列内外部精选AI课程，供大家自学与自我提升。
+
+课程与讲师团队
+朱广平 00341851
+部门：未来网络与应用研究部(战略Marketing部)
+陈宇 00340810
+部门：华为大学 项目群一
+
+课程代码CNE052301001288
+课程开始2018年6月22日
+课程结束2020年6月22日
+班级代码Self-paced
+课程时长小时1
+
+
+------------------------------
+AI和机器学习发展简史
+描述
+本课程面向研发管理者、以及刚开始接触AI技术的研发人员。通过学习，您将了解人工智能的历史与现状，机器学习、深度学习与人工智能的关系，机器学习的发展历程、关键技术与思想等。
+搜索关键词：AI，人工智能，机器学习，发展简史，深度学习，神经网络
+
+目标学员
+本课程面向研发管理者、以及刚开始接触AI技术的研发人员
+
+课程目标
+通过本课程学习，您将了解到：
+1）人工智能的起源、发展简史、学派之争
+2）人工智能、机器学习、深度学习之间的关系
+3）机器学习关键技术与数学基础
+4）我们应该如何看待数据
+5）机器学习的百家争鸣
+
+课程与讲师团队
+于江生 00759238
+部门：2012 硅谷基础软件技术实验室
+
+雷宇宁 00204835
+部门：2012 中软架构与设计管理部
+
+课程代码CNE052301001285
+课程开始2018年6月15日
+课程结束2020年6月15日
+班级代码Self-paced
+课程时长小时2
+
+
+------------------------------
+机器学习概述
+描述
+本课程面向研发管理者、以及刚开始接触AI技术的研发人员。通过学习，您将了解机器学习的基础概念和通用算法。
+搜索关键词：AI，人工智能，机器学习，深度学习，监督学习，非监督学习，算法
+
+目标学员
+本课程面向研发管理者、以及刚开始接触AI技术的研发人员
+
+课程目标
+通过本课程学习，您将了解到：
+1）了解什么是机器学习以及机器学习的三种分类
+2）了解在机器学习领域中，基础的应用实例有哪些，八种常用的算法是哪些
+3）了解对于后续学习、开发应用方面的切实可行的建议
+
+课程与讲师团队
+刘健庄 00206477
+部门：2012 诺亚方舟实验室
+
+王晶 00303197
+部门：2012 研发能力中心系统工程部
+
+课程代码CNE052301001281
+课程开始2018年6月1日
+课程结束2020年5月31日
+班级代码Self-paced
+课程时长小时3
+
+
+------------------------------
+神经网络知多少
+描述
+本课程面向研发管理者、以及刚开始接触AI技术的研发人员，即使您是人工智能领域的“吃瓜群众”，也可也通过本课程通俗易懂的内容，快速了解到，人工智能中的主要学科-神经网络的基本概念、核心算法、应用场景、趋势与发展历程等。
+搜索关键词：AI，人工智能，机器学习，深度学习，神经网络，快速入门
+
+目标学员
+本课程面向研发管理者、刚开始接触AI技术的研发人员、以及对AI.神经网络知识饱有好奇心的“吃瓜群众”。
+
+课程目标
+通过本课程学习，您将了解到：
+1）人工神经网络的基础知识，如人工神经元的基本模型、单层与多层感知器
+2）ANN（人工神经网络）的算法与应用，例如 鼻祖级BP算法的原理过程
+3）DLNN（深度学习神经网络）入门，包括其由来、特点与发展历程
+4）更多优质学习资源推荐
+
+课程与讲师团队
+陈丽亚 00754593
+部门：2012 硅谷基础软件技术实验室
+
+雷宇宁 00303197
+部门：2012 中软架构与设计管理部
+
+陈蕾 00195635
+部门：华为大学
+
+陈宇 00340810
+部门：华为大学
+
+课程代码CNE052301001286
+课程开始2018年7月7日
+课程结束2020年7月7日
+班级代码Self-paced
+课程时长小时3
+课程类型微课
+
+------------------------------
+人工智能（AI）学习需求调研（华为大学）
+您好
+非常感谢您参与本次人工智能（AI）学习需求调研。
+
+一）调研背景
+任总：人工智能会不断推动人类进步。重复工作自动化，模糊判别智能化，是华为努力的方向。（在蒙特利尔大学）
+小徐总：面向华为内部的数字化变革，把人工智能定位为提升内部管理效率的关键手段，并把AI的知识与技能定义为未来华为研发工程师的基本能力（华为SDC决议 【2018】006号）
+为了满足公司内研发管理者、工程师及全员，对于人工智能（AI）的学习/认证需求，华为大学已初步建立公司级AI赋能学习平台，并将持续外部引入/内部开发 AI优质精品课程与学习资源。
+
+二）调研目的
+本问卷希望向您了解，对于人工智能，您的具体学习需求都有哪些？以帮助我们更快、更及时的提供大家最需要的学习课程。
+完成此问卷预计需要3分钟，感谢您的支持与反馈。
+华为大学
+
+
+开发者
+------------------------------
+人工智能入门
+开始时间：2018年6月19日
+谷歌，英语，中文字幕，外部课程
+描述人工智能领域已有很长的历史，并且还在不断地发展与变化中。在本课程中，你将学习现代人工智能的基础知识，以及人工智能的一些代表性应用。在学习过程中，我们也希望能通过人工智能的各种应用场景激起你的学习兴趣，带你探索人工智能领域的无限可能性。人工智能将继续增强人类的能力，完全突破我们的想象力。
+
+课程信息
+课程目标：
+学习人工智能基础知识
+
+特别提示：
+本课程及服务均在外部网站完成，如您没有外部网站账号，请您注册后学习，如课程需要付费，请在外部网站付费后学习。因学习内容在境外服务器，网页加载较慢，视频播放受国际带宽影响，会经常出现卡顿。
+
+学习大纲：
+第一部分：人工智能基础知识
+第二部分：人工智能的应用
+
+人工智能入门  免费
+丰富的教学材料
+互动随堂练习
+业界专业导师
+自主掌握进度
+
+课程来源：优达学城
+课程费用：免费
+开班形式：随时学习
+先修知识：人工智能入门课程中的某些内容以概率论和线性代数为基础。你需要了解概率论，包括我们在“统计学入门”课程中介绍的内容。
+
+
+------------------------------
+深度学习
+开始时间：2018年6月19日
+Google，英语，中文字幕，外部课程
+描述机器学习是发展最快、最令人兴奋的领域之一，而深度学习则代表了机器学习中最前沿但也最有风险的一部分。在本课内容中，你将透彻理解深度学习的动机，并设计用于了解复杂和/或大量数据库的智能系统。
+
+课程信息
+课程目标：
+26 周成为机器学习工程师，系统掌握监督学习、非监督学习、强化学习等技术
+
+特别提示：
+本课程及服务均在外部网站完成，如您没有外部网站账号，请您注册后学习，如课程需要付费，请在外部网站付费后学习。因学习内容在境外服务器，网页加载较慢，视频播放受国际带宽影响，会经常出现卡顿。
+
+学习大纲：
+● 从机器学习到深度学习
+● 深度神经网络
+● 卷积神经网络
+● 文本和序列的深度模型
+● 软件和工具
+● 项目：开发一个实时摄像头应用
+
+先修知识：
+本课内容是高级课程的预备课。在学习本课内容之前，除了要满足"机器学习工程师课程"所列的前提和要求以外，你还应具备以下经验和技能：
+　● 至少2年的编程经验（最好是运用 Python 语言）
+　● Git 和 GitHub 使用经验（GitHub 代码库中有作业代码）
+　● 基本的机器学习知识（尤其是监督学习）
+　● 基本的统计学知识（平均值、方差、标准差等）
+　● 线性代数（向量、矩阵等）
+　● 微积分学（微分、积分、偏导函数等）
+
+人工智能入门  免费
+丰富的教学材料
+互动随堂练习
+业界专业导师
+自主掌握进度
+
+课程来源：优达学城
+课程费用：免费
+开班形式：随时学习
+
+------------------------------
+CS231n: Convolutional Neural Networks for Visual Recognition
+开始时间：2018年6月19日
+Stanford，2018-04-03，英语，英文文本，外部课程
+
+描述
+This course is a deep dive into details of the deep learning architectures with a focus on learning end-to-end models for these tasks, particularly image classification.
+
+课程信息
+课程目标：
+During the 10-week course, students will learn to implement, train and debug their own neural networks and gain a detailed understanding of cutting-edge research in computer vision. 
+
+特别提示：
+本课程及服务均在外部网站完成，如您没有外部网站账号，请您注册后学习，如课程需要付费，请在外部网站付费后学习。因学习内容在境外服务器，网页加载较慢，视频播放受国际带宽影响，会经常出现卡顿。
+
+学习大纲：
+We will focus on teaching how to set up the problem of image recognition, the learning algorithms (e.g. backpropagation), practical engineering tricks for training and fine-tuning the networks and guide the students through hands-on assignments and a final course project.
+
+先修知识：
+● Proficiency in Python, high-level familiarity in C/C++
+● College Calculus, Linear Algebra (e.g. MATH 19 or 41, MATH 51)
+● Basic Probability and Statistics (e.g. CS 109 or other stats course)
+● Equivalent knowledge of CS229 (Machine Learning)
+
+CS231n: Convolutional Neural Networks for Visual Recognition 免费
+丰富的教学材料
+互动随堂练习
+业界专业导师
+自主掌握进度
+
+课程来源：斯坦福大学
+课程费用：免费学习
+开班形式：随时学习
+
+------------------------------
+Neural Networks and Deep Learning
+开始时间：2018年6月19日
+斯坦福大学，2018-05-21，英语，中文字幕，外部课程
+
+描述
+If you want to break into cutting-edge AI, this course will help you do so. Deep learning engineers are highly sought after, and mastering deep learning will give you numerous new career opportunities. Deep learning is also a new "superpower" that will let you build AI systems that just weren't possible a few years ago.
+
+课程信息
+课程目标：
+In this course, you will learn the foundations of deep learning. When you finish this class, you will:
+- Understand the major technology trends driving Deep Learning
+- Be able to build, train and apply fully connected deep neural networks
+- Know how to implement efficient (vectorized) neural networks 
+- Understand the key parameters in a neural network's architecture 
+
+特别提示：
+本课程及服务均在外部网站完成，如您没有外部网站账号，请您注册后学习，如课程需要付费，请在外部网站付费后学习。因学习内容在境外服务器，网页加载较慢，视频播放受国际带宽影响，会经常出现卡顿。
+
+学习大纲：
+● Introduction to deep learning
+● Neural Networks Basics
+● Shallow neural networks
+● Deep Neural Networks
+
+先修知识：
+Programming: Basic Python programming skills, with the capability to work effectively with data structures. Mathematics: Matrix vector operations and notation. Machine Learning: Understanding how to frame a machine learning problem, including how data is represented will be beneficial. If you have taken my Machine Learning Course here, you have much more than the needed level of knowledge.
+
+Neural Networks and Deep Learning USD311/月
+丰富的教学材料
+互动随堂练习
+业界专业导师
+自主掌握进度
+
+课程来源：COURSERA
+课程费用：按月收费
+开班形式：随时学习
+
+------------------------------
+吴恩达  机器学习
+开始时间：2018年6月19日
+斯坦福大学，2018-05-28，英语，中文字幕，外部课程
+描述
+机器学习是一门研究在非特定编程条件下让计算机采取行动的学科。最近二十年，机器学习为我们带来了自动驾驶汽车、实用的语音识别、高效的网络搜索，让我们对人类基因的解读能力大大提高。当今机器学习技术已经非常普遍，您很可能在毫无察觉情况下每天使用几十次。许多研究者还认为机器学习是人工智能（AI）取得进展的最有效途径。在本课程中，您将学习最高效的机器学习技术，了解如何使用这些技术，并自己动手实践这些技术。更重要的是，您将不仅将学习理论知识，还将学习如何实践，如何快速使用强大的技术来解决新问题。最后，您将了解在硅谷企业如何在机器学习和AI领域进行创新。
+
+课程信息
+课程目标：
+您将学习最高效的机器学习技术，了解如何使用这些技术，并自己动手实践这些技术。更重要的是，您将不仅学习理论知识，还将学习如何实践，如何快速使用强大的技术来解决新问题。最后，您将了解在硅谷企业如何在机器学习和AI领域进行创新。
+
+特别提示：
+本课程及服务均在外部网站完成，如您没有外部网站账号，请您注册后学习，如课程需要付费，请在外部网站付费后学习。因学习内容在境外服务器，网页加载较慢，视频播放受国际带宽影响，会经常出现卡顿。
+
+学习大纲：
+● Introduction
+● Linear Regression with One Variable
+● Linear Algebra Review
+● Linear Regression with Multiple Variables
+● Octave/Matlab Tutorial
+● Logistic Regression
+● Regularization
+● Neural Networks: Representation
+● Neural Networks: Learning
+● Advice for Applying Machine Learning
+● Machine Learning System Design
+● Support Vector Machines
+● Unsupervised Learning
+● Dimensionality Reduction
+● Anomaly Detection
+● Recommender Systems
+● Large Scale Machine Learning
+● Application Example: Photo OCR
+
+机器学习  免费学习、付费认证
+丰富的教学材料
+互动随堂练习
+业界专业导师
+自主掌握进度
+
+课程来源：COURSERA
+课程费用：免费学习，CNY375认证证书
+开班形式：随时学习
+
+------------------------------
+机器学习（入门）
+开始时间：2018年6月19日
+Google kaggle 2018-06-06，英语，中文字幕，外部课程
+
+描述
+人工智能有多火？Google 中国为应届生岗位开出高达 56 万的年薪，计算机视觉、自然语言处理等前沿应用领域更是面临巨大的人才缺口。想快速掌握该领域基础技能，为成为高薪的人工智能领域工程师？学习本课程，从零开始掌握 Python 编程、线性代数及 Numpy、Pandas 等数据分析工具，搭建一个图像识别神经网络。逐行代码审核、高手全程引路、帮你快速提升技能。16 周后，你将具备深造 AI 领域核心的机器学习、深度学习技术基础，成为前沿技术领域的人才。
+
+课程信息
+课程目标：
+零基础学习人工智能所需的 Python、Pandas、Numpy 及 PyTorch，构建你的神经网络
+
+特别提示：
+本课程及服务均在外部网站完成，如您没有外部网站账号，请您注册后学习，如课程需要付费，请在外部网站付费后学习。因学习内容在境外服务器，网页加载较慢，视频播放受国际带宽影响，会经常出现卡顿。
+
+学习大纲：
+第一部分：Python 编程入门
+第二部分：Numpy、Pandas、Matplotlib
+第三部分：线性代数基础
+第四部分：神经网络
+
+机器学习（入门） CNY3299
+硅谷前沿课程，获官方认证
+一流技术大咖亲授课程
+挑战前沿实战项目
+连接全球900万技术精英
+
+课程来源：优达学城
+课程费用：CNY3299
+开班形式：不定期开班，具体请到课程页面查看
+先修知识：零基础入门。掌握基本编程技能将有助于你快速掌握AI所需要的基本知识，但不是必须的。
+
+------------------------------
+机器学习（进阶）
+开始时间：2018年6月19日
+Google kaggle 2018-06-06，英语，中文字幕，外部课程
+
+描述
+人工智能有多火？Google 中国为应届生岗位开出高达 56万的年薪，计算机视觉、自然语言处理等前沿应用领域更是面临巨大的人才缺口。想快速掌握该领域基础技能，为成为高薪的人工智能领域工程师？学习本课程，从零开始掌握 Python 编程、线性代数及 Numpy、Pandas 等数据分析工具，搭建一个图像识别神经网络。逐行代码审核、高手全程引路、帮你快速提升技能。16 周后，你将具备深造 AI 领域核心的机器学习、深度学习技术基础，成为前沿技术领域的人才。
+
+课程信息
+课程目标：
+26 周成为机器学习工程师，系统掌握监督学习、非监督学习、强化学习等技术。
+
+特别提示：
+本课程及服务均在外部网站完成，如您没有外部网站账号，请您注册后学习，如课程需要付费，请在外部网站付费后学习。因学习内容在境外服务器，网页加载较慢，视频播放受国际带宽影响，会经常出现卡顿。
+
+学名企合作课程，师从顶尖专家
+与AWS、Kaggle等知名企业合力打造课程内容，Google X创始人Sebastian Thrun、Google机器学习工程师Luis Serrano等业界翘楚授课，帮你成为Google标准的机器学习工程师。
+
+挑战前沿项目，获得逐行代码审阅服务
+挑战独一无二的硅谷实战项目，在实操中完全掌握机器学习核心技能。你的代码将得到AI领域专家逐行审阅、反馈，通过此训练，你最高效率学习最先进的技术标准。
+
+获得优达学城纳米学位证书
+毕业后，你将获得优达学城认证的毕业证书，证明你的专业知识和技术水平。
+
+学习大纲：
+第一部分：机器学习基础
+第二部分：监督学习
+第三部分：深度学习
+第四部分：非监督学习
+第五部分：强化学习
+第六部分：毕业项目
+
+机器学习（进阶） CNY5599
+硅谷前沿课程，获官方认证
+一流技术大咖亲授课程
+挑战前沿实战项目
+连接全球900万技术精英
+
+课程来源：优达学城
+课程费用：CNY5599
+开班形式：不定期开班，具体请到课程页面查看
+先修知识：掌握中级编程知识、中级统计学知识、中级微积分和线性代数知识
+
+------------------------------
+Neural Networks for Machine Learning
+开始时间：2018年6月19日
+多伦多大学，2018-06-11，英语，中文字幕，外部课程
+
+描述
+Learn about artificial neural networks and how they're being used for machine learning, as applied to speech and object recognition, image segmentation, modeling language and human motion, etc. We'll emphasize both the basic algorithms and the practical tricks needed to get them to work well.
+
+课程信息
+课程目标：
+Learn about artificial neural networks and how they're being used for machine learning, as applied to speech and object recognition, image segmentation, modeling language and human motion, etc. We'll emphasize both the basic algorithms and the practical tricks needed to get them to work well.
+
+特别提示：
+本课程及服务均在外部网站完成，如您没有外部网站账号，请您注册后学习，如课程需要付费，请在外部网站付费后学习。因学习内容在境外服务器，网页加载较慢，视频播放受国际带宽影响，会经常出现卡顿。
+
+学习大纲：
+● Introduction
+● The Perceptron learning procedure
+● The backpropagation learning proccedure
+● Learning feature vectors for words
+● Object recognition with neural nets
+● Optimization: How to make the learning go faster
+● Recurrent neural networks
+● More recurrent neural networks
+● Ways to make neural networks generalize better
+● Combining multiple neural networks to improve generalization
+● Hopfield nets and Boltzmann machines
+● Restricted Boltzmann machines (RBMs)
+● Stacking RBMs to make Deep Belief Nets
+● Deep neural nets with generative pre-training
+● Modeling hierarchical structure with neural nets
+● Recent applications of deep neural nets
+
+先修知识：
+comfortable with calculus and with experience programming (Python).
+
+Neural Networks for Machine Learning  免费学习、付费认证
+丰富的教学材料
+互动随堂练习
+业界专业导师
+自主掌握进度
+
+课程来源：COURSERA
+课程费用：免费学习，CNY184认证证书
+开班形式：随时学习
+
+------------------------------
+人工智能
+开始时间：2018年6月19日
+哥伦比亚大学，2018-09-17，英语，英文字幕，外部课程
+
+描述
+This course will provide a broad understanding of the basic techniques for building intelligent computer systems and an understanding of how AI is applied to problems.
+
+课程信息
+课程目标：
+Learn the fundamentals of Artificial Intelligence (AI), and apply them. Design intelligent agents to solve real-world problems including, search, games, machine learning, logic, and constraint satisfaction problems.
+
+特别提示：
+本课程及服务均在外部网站完成，如您没有外部网站账号，请您注册后学习，如课程需要付费，请在外部网站付费后学习。因学习内容在境外服务器，网页加载较慢，视频播放受国际带宽影响，会经常出现卡顿。
+
+学习大纲：
+● Introduction to Artificial Intelligence and intelligent agents, history of Artificial Intelligence
+● Building intelligent agents (search, games, logic, constraint satisfaction problems)
+● Machine Learning algorithms
+● Applications of AI (Natural Language Processing, Robotics/Vision)
+● Solving real AI problems through programming with Python
+
+先修知识：
+Students are required to have some basic of Python programming and an understanding of probability. Homework assignments will have a programming component in Python. The course offers an excellent opportunity for students to dive into Python while solving AI problems and learning its applications.
+　● Linear algebra (vectors, matrices, derivatives)
+　● Calculus
+　● Basic probability theory
+　● Python programming
+
+人工智能  免费学习、付费认证
+丰富的教学材料
+互动随堂练习
+业界专业导师
+自主掌握进度
+
+课程来源：COURSERA
+课程费用：免费学习，CNY199认证证书
+开班形式：2018年9月17日
